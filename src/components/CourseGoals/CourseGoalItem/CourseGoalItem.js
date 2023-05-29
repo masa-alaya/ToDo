@@ -10,7 +10,7 @@ const CourseGoalItem = (props) => {
     setClicked("clicked");
     setTimeout(() => {
       props.onDelete(props.id);
-    }, 400);
+    }, 300);
     // setDeleteText('(Deleted!)');
   };
 
