@@ -35,3 +35,7 @@ html {
   background-color: #e0c3fc;
   color: black;
 }
+
+.container {
+  overflow: hidden;
+}
