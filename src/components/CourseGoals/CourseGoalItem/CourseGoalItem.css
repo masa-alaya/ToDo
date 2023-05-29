@@ -29,7 +29,7 @@
   background-color: #ee7501;
 }
 .goal-item.clicked {
-  transition: all 0.3s ease-out;
+  transition: all 0.2s ease-out;
   transform: translateX(100%);
   opacity: 0;
 }
